@@ -8,6 +8,8 @@ import Write from "./pages/write/Write";
 import Cabin from "./pages/cabin/Cabin";
 import Student from "./pages/student/Student";
 import Startups from "./pages/startups/Startups";
+import React from 'react';
+
 
 
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
